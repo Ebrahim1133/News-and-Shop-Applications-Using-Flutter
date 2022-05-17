@@ -1,5 +1,5 @@
 <h1> Develop-Different-Mobile-Applications</h1>
-<p>Create different mobile applications such as a social networking application and an online store, as well as a news application using Flutter</p>
+<p>Create Different Mobile Applications such as a social networking application and an online store, as well as a news application use Api and Firbase </p>
 <h1>News App</h1>
 <br>
 <h2>Demo Video</h2>
