@@ -3,9 +3,11 @@
 <h1>News App</h1>
 <br>
 <h2>Demo Video</h2>
+<br>
 ![Test-Gif-File](https://github.com/Ebrahim1133/Develop-Different-Mobile-Applications/blob/master/20210730_184917.gif)
 <br>
 <h1>Shop App</h1>
 <br>
 <h2>Demo Video</h2>
+<br>
 ![Test-Gif-File](https://github.com/Ebrahim1133/Develop-Different-Mobile-Applications/blob/master/20210802_064926.gif)
