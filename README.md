@@ -1,5 +1,5 @@
 <h1> Develop-Different-Mobile-Applications</h1>
-<p>Create Different Mobile Applications such as a social networking application and an online store, as well as a news application use Api and Firbase </p>
+<p>Create Different Mobile Applications such as a social networking application and an online store, as well as a news application use Api and Firebase </p>
 <h1>News App</h1>
 <br>
 <h2>Demo Video</h2>
